@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.juddling.cloudflarefirewallplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.juddling.cloudflarefirewallplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
